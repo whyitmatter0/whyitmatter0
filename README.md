@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, Everyone </h1>
+<h1 align="center">Hi Everyone ,👋</h1>
 <h3 align="center">Ai enthusiast!|Python|Java|HTML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritdubey4&label=Profile%20views&color=0e75b6&style=flat" alt="amritdubey4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whyitmatter0&label=Profile%20views&color=0e75b6&style=flat" alt="whyitmatter0" /> </p>
 
 - 🌱 I’m currently learning **Java**
 
